@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "gh-pages": "^5.0.0",
+    "react-bootstrap": "^2.3.0",
+    "react-router-dom": "^6.3.0"
+  }
+}
